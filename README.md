@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Nishant</h1></summary>
+    <summary><h1 style="display: inline-block">Hola 👋, soy Julio Vargas</h1></summary>
   </ul>
 </div>
 
@@ -20,25 +20,23 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">Acerca de mi</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 Me apasiona aplicar mis conocimientos y habilidades en un entorno profesional.
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 Busco oportunidades para ampliar mis habilidades, contribuir al éxito de una organización y evolucionar continuamente como profesional.
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ Tengo interés en áreas como gestión de proyectos, análisis de datos y desarrollo de software.
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 📝 Regularmente asisto a eventos para aprender más del tema [Linkedin](https://www.linkedin.com/in/juliovargasch/)
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 📫 No dudes en comunicarte conmigo **jvargasch.1004@gmail.com**
 
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
+- 🏠 Puedes enviarme un **👋** en Discord –  [juliovargas](https://discordapp.com/users/juliovargas) my username!
 <!--Intro end-->
 
 

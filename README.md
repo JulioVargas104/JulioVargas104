@@ -11,7 +11,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+  <img  src="https://media.licdn.com/dms/image/D4E16AQGCIDPp9o6a3w/profile-displaybackgroundimage-shrink_350_1400/0/1698878271725?e=1726099200&v=beta&t=0X8xJ-JJqYtWrR5JveeVrzp9WIFVAS_CeTcb7pIJeVU"
        alt="snake" /></a>
 </div>
 
@@ -66,7 +66,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tech</h2></summary>
+    <summary><h2 style="display: inline-block">Tech Stack</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -92,15 +92,5 @@
   
 </p>
 
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-  
-</div>
-
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-----------------------------------------------------------------------

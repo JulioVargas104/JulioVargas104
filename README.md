@@ -89,7 +89,8 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/juliovargasch/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="https://discordapp.com/users/433046205464051733" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
+<a href="mailto:jvargasch.1004@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/256/732/732200.png?ga=GA1.1.1113105281.1720548744&semt=ais_hybrid" alt="gmail" height="50" width="50" /></a>
+<a href="https://wa.me/51903121867" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/256/3991/3991765.png?ga=GA1.1.1113105281.1720548744&semt=ais_hybrid" alt="whatsapp" height="50" width="50" /></a>
 </p>
 
 <!--horizontal divider(gradiant)-->

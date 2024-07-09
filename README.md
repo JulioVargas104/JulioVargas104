@@ -26,17 +26,16 @@
 
 
 <!--Intro start-->
-- 🔭 Me apasiona aplicar mis conocimientos y habilidades en un entorno profesional.
+- 🔭 Me apasiona aplicar mis conocimientos y habilidades en el campo laboral.
 
 - 🌱 Busco oportunidades para ampliar mis habilidades, contribuir al éxito de una organización y evolucionar continuamente como profesional.
 
 - ☁️ Tengo interés en áreas como gestión de proyectos, análisis de datos y desarrollo de software.
 
-- 📝 Regularmente asisto a eventos para aprender más del tema [Linkedin](https://www.linkedin.com/in/juliovargasch/)
+- 📝 Regularmente asisto a eventos para aprender más del tema, puedes revisar a los eventos que asistí en mi perfil de [Linkedin](https://www.linkedin.com/in/juliovargasch/)
 
 - 📫 No dudes en comunicarte conmigo **jvargasch.1004@gmail.com**
 
-- 🏠 Puedes enviarme un **👋** en Discord –  [juliovargas](https://discordapp.com/users/juliovargas) my username!
 <!--Intro end-->
 
 
